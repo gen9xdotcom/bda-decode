@@ -1,0 +1,16 @@
+{
+  "name": "dectypt",
+  "version": "1.0.0",
+  "description": "Desgin By MrIT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "start"
+  },
+  "author": "MrIT",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "fs": "^0.0.1-security"
+  }
+}
